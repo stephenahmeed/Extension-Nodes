@@ -13,14 +13,14 @@ RESET='\033[0m' # Reset color
 
 # Print "CRYPTO CONSOLE" with vibrant colors
 echo -e "${CYAN}=============================="
-echo -e "       ${GREEN}CRYPTO CONSOLE${CYAN}        "
+echo -e "       ${GREEN}Sabbir Hossain | Airdrop${CYAN}        "
 echo -e "${CYAN}==============================${RESET}"
 
 # Your script code goes here
 
 
 # Ask the user to follow on Twitter
-echo "Please follow us at: https://x.com/cryptoconsol"
+echo "Please follow us at: https://x.com/0xSabie"
 read -p "Have you followed us? (yes/no): " followed
 
 if [[ "$followed" != "yes" ]]; then
