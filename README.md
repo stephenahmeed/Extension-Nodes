@@ -23,7 +23,7 @@ Open your terminal
 
 Copy & paste this below code in your terminal to install & run the script
 ```
-wget https://raw.githubusercontent.com/stephenahmeed/Extension-nodes/refs/heads/main/extnodes.sh && chmod +x extnodes.sh && ./extnodes.sh
+wget https://raw.githubusercontent.com/stephenahmeed/Extension-nodes/refs/heads/main/extnodesbot.sh && chmod +x extnodesbot.sh && ./extnodesbot.sh
 ```
 
 ## You can farm these airdrops using this methods:
