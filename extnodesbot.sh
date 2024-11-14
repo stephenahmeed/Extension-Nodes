@@ -13,7 +13,7 @@ RESET='\033[0m' # Reset color
 
 # Print "CRYPTO CONSOLE" with vibrant colors
 echo -e "${CYAN}=============================="
-echo -e "       ${GREEN}Sabbir Hossain | Airdrop${CYAN}        "
+echo -e "  ${GREEN}Sabbir Hossain | Airdrop${CYAN}  "
 echo -e "${CYAN}==============================${RESET}"
 
 # Your script code goes here
