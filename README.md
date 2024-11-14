@@ -48,7 +48,7 @@ wget https://raw.githubusercontent.com/uve12/Extension-nodes/refs/heads/main/ext
 ### 4. Bless
 - Register : https://bless.network/dashboard?ref=7N8712
 - Search Bless extension in VPS browser
-- And log in, it will keep running in the backgrou
+- And log in, it will keep running in the background
 
 
 
