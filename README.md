@@ -29,23 +29,23 @@ wget https://raw.githubusercontent.com/uve12/Extension-nodes/refs/heads/main/ext
 ## You can farm these airdrops using this methods:
 
 
-### Dawn Validator Node
+### 1. Dawn Validator Node
 - Search Dawn Extension in the browser
 - Register if you have not
 - Refer code : jluv5t
 
-### Gradient Sentry Node
+### 2. Gradient Sentry Node
 - Register : https://app.gradient.network/signup?code=HVXJ2L
 - Refer Code : HVXJ2L
 - Search Gradient Sentry Node Extension in the VPS browser
 - And log in, it will keep running in the background
 
-### Nodepay
+### 3. Nodepay
 - Register : https://app.nodepay.ai/register?ref=1AkCxug4j436dyu
 - Search Nodepay extension in VPS browser
 - And log in, it will keep running in the background
 
-### Bless
+### 4. Bless
 - Register : https://bless.network/dashboard?ref=7N8712
 - Search Bless extension in VPS browser
 - And log in, it will keep running in the backgrou
