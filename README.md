@@ -10,11 +10,11 @@ So why not launch a browser from a VPS and add extensions to that browser, which
 
 # Join SA Community
 
-Join TG : https://t.me/sabbirhossainairdrop
+Join TG : https://t.me/Sabbirofficalairdrop
 
-Follow X : https://www.x.com/0xsabie
+Follow X : https://www.x.com/0xSabie
 
-Subscribe : https://www.youtube.com/@sabbirhossainairdrop
+Subscribe : https://www.youtube.com/@Sabbirofficalairdrop
 
 
 ## Installation
@@ -50,7 +50,5 @@ wget https://raw.githubusercontent.com/stephenahmeed/Extension-nodes/refs/heads/
 - Search Bless extension in VPS browser
 - And log in, it will keep running in the background
 
-
-
-
+### Join My Airdrop Channel For Upcoming Update: https://t.me/sabbirofficialairdrop
 
