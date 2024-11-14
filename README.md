@@ -34,18 +34,13 @@ wget https://raw.githubusercontent.com/stephenahmeed/Extension-nodes/refs/heads/
 - Register if you have not
 - Refer code : jluv5t
 
-### 2. Gradient Sentry Node
-- Register : https://app.gradient.network/signup?code=HVXJ2L
-- Refer Code : HVXJ2L
-- Search Gradient Sentry Node Extension in the VPS browser
-- And log in, it will keep running in the background
 
-### 3. Nodepay
+### 2. Nodepay
 - Register : https://app.nodepay.ai/register?ref=1AkCxug4j436dyu
 - Search Nodepay extension in VPS browser
 - And log in, it will keep running in the background
 
-### 4. Bless
+### 3. Bless
 - Register : https://bless.network/dashboard?ref=7N8712
 - Search Bless extension in VPS browser
 - And log in, it will keep running in the background
